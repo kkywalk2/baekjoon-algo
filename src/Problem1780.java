@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem1730 {
+public class Problem1780 {
 
     private static int ngOne = 0;
     private static int zero = 0;
