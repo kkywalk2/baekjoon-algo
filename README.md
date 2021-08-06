@@ -10,3 +10,4 @@
 |11279|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=11279&user_id=kkywalk2&result_id=4)||
 |1927|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1927&user_id=kkywalk2&result_id=4)||
 |1260|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1260&user_id=kkywalk2&result_id=4)||
+|2606|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2606&user_id=kkywalk2&result_id=4)||
