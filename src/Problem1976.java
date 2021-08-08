@@ -29,6 +29,7 @@ public class Problem1976 {
         for(int i = 0; i < m - 1; i++) {
             if(!isSameUnion(parent, travel[i] - 1, travel[i + 1] - 1)) {
                 System.out.println("NO");
+                sc.close();
                 return;
             }
         }
