@@ -9,9 +9,11 @@ public class Problem11279 {
         int actionCount = sc.nextInt();
         int[] action = new int[actionCount];
         tree = new int[actionCount + 1];
+
         for (int i = 0; i < actionCount; i++) {
             action[i] = sc.nextInt();
         }
+
         for (int i = 0; i < actionCount; i++) {
             if (action[i] != 0) {
                 add(action[i]);
@@ -19,6 +21,7 @@ public class Problem11279 {
                 System.out.println(remove());
             }
         }
+        
         sc.close();
     }
 
