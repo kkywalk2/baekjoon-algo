@@ -20,4 +20,5 @@
 |1197|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1197&user_id=kkywalk2&result_id=4)||
 |1753|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1753&user_id=kkywalk2&result_id=4)||
 |1752|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1752&user_id=kkywalk2&result_id=8)|나름대로의 풀이법으로 풀어보았으나 메모리 초과|
-|1992|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1992&user_id=kkywalk2&result_id=4)|나름대로의 풀이법으로 풀어보았으나 메모리 초과|
+|1992|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1992&user_id=kkywalk2&result_id=4)||
+|1629|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1629&user_id=kkywalk2&result_id=4)||
