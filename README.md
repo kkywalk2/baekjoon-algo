@@ -24,3 +24,4 @@
 |1629|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1629&user_id=kkywalk2&result_id=4)||
 |2470|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2470&user_id=kkywalk2&result_id=4)|2470_B는 처음 나의 풀이, 왜 틀렸는지 이해가 안되서 확인중|
 |10816|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=10816&user_id=kkywalk2&result_id=4)||
+|15649|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=15649&user_id=kkywalk2&result_id=4)|순열과 조합이 햇갈려서 풀이|
