@@ -27,3 +27,4 @@
 |15649|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=15649&user_id=kkywalk2&result_id=4)|순열과 조합이 햇갈려서 풀이|
 |1504|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1504&user_id=kkywalk2&result_id=4)||
 |12852|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=12852&user_id=kkywalk2&result_id=4)||
+|2166|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2166&user_id=kkywalk2&result_id=4)|[참고자료](https://kangminjun.tistory.com/106)|
