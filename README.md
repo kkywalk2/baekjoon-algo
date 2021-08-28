@@ -31,3 +31,4 @@
 |4354|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=4354&user_id=kkywalk2&result_id=4)||
 |1786|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1786&user_id=kkywalk2&result_id=4)|[참고자료](https://bowbowbow.tistory.com/6#comment5168448)|
 |11758|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=11758&user_id=kkywalk2&result_id=4)||
+|1305|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1305&user_id=kkywalk2&result_id=4)||
