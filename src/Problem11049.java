@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Probleam11049 {
+public class Problem11049 {
     static int[][] arr;
     static int[][] dp;
 
