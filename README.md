@@ -35,3 +35,4 @@
 |17386|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=17386&user_id=kkywalk2&result_id=4)||
 |1654|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1654&user_id=kkywalk2&result_id=4)||
 |3584|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=3584&user_id=kkywalk2&result_id=4)||
+|17435|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=17435&user_id=kkywalk2&result_id=4)|scanner로는 안됨..|
