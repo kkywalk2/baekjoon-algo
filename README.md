@@ -37,4 +37,4 @@
 |3584|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=3584&user_id=kkywalk2&result_id=4)||
 |17435|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=17435&user_id=kkywalk2&result_id=4)|scanner로는 안됨..|
 |2150|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2150&user_id=kkywalk2&result_id=4)||
-|4196|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=4196&user_id=kkywalk2&result_id=4)|아직 못품|
+|4196|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=4196&user_id=kkywalk2&result_id=4)||

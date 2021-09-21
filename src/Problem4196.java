@@ -1,7 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
@@ -32,7 +29,7 @@ public class Problem4196 {
                 rgraph.get(y).add(x);
             }
 
-            Queue<Integer> resultQueue = new LinkedList<>();
+            Stack<Integer> resultQueue = new Stack<>();
             boolean[] visited = new boolean[blockCount + 1];
             for (int i = 1; i <= blockCount; i++) {
                 if (visited[i] == false)
@@ -41,11 +38,9 @@ public class Problem4196 {
 
             int groupNum = 1;
             int[] scc = new int[blockCount + 1];
-            int[] indegree = new int[blockCount + 1];
-            Arrays.fill(visited, false);
 
             while (!resultQueue.isEmpty()) {
-                int start = resultQueue.poll();
+                int start = resultQueue.pop();
 
                 if (scc[start] != 0)
                     continue;
@@ -54,6 +49,7 @@ public class Problem4196 {
                 groupNum++;
             }
 
+            int[] indegree = new int[groupNum];
             for(int i = 1; i <= blockCount; i++) {
                 ArrayList<Integer> list = graph.get(i);
                 for(int point : list) {
@@ -74,7 +70,8 @@ public class Problem4196 {
         sc.close();
     }
 
-    public static void dfs(Queue<Integer> resultQueue, boolean[] visited, ArrayList<ArrayList<Integer>> graph,
+    //재귀 안쓰고 할 방법 없나..
+    /*public static void dfs(Queue<Integer> resultQueue, boolean[] visited, ArrayList<ArrayList<Integer>> graph,
             int start) {
         Stack<Integer> tempStack = new Stack<>();
         tempStack.push(start);
@@ -87,13 +84,25 @@ public class Problem4196 {
 
             for (int nextConnected : connectedList) {
                 if (visited[nextConnected] == false) {
-                    tempStack.add(nextConnected);
+                    tempStack.push(nextConnected);
                     resultQueue.offer(nextConnected);
                     visited[nextConnected] = true;
                     break;
                 }
             }
         }
+    }*/
+
+    public static void dfs(Stack<Integer> resultQueue, boolean[] visited, ArrayList<ArrayList<Integer>> graph, int start) {
+        visited[start] = true;
+
+        for (int now : graph.get(start)) {
+            if (!visited[now]) {
+                dfs(resultQueue, visited, graph, now);
+            }
+        }
+
+        resultQueue.push(start);
     }
 
     public static void rdfs(int[] scc, int groupNum, ArrayList<ArrayList<Integer>> result,
