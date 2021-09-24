@@ -39,3 +39,4 @@
 |2150|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2150&user_id=kkywalk2&result_id=4)||
 |4196|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=4196&user_id=kkywalk2&result_id=4)||
 |11066|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=11066&user_id=kkywalk2&result_id=4)||
+|1167|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1167&user_id=kkywalk2&result_id=4)|시간복잡도는 문제가 없어 보이는데 시간초과|
