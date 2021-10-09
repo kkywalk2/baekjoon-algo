@@ -35,7 +35,7 @@
 |17386|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=17386&user_id=kkywalk2&result_id=4)||
 |1654|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1654&user_id=kkywalk2&result_id=4)||
 |3584|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=3584&user_id=kkywalk2&result_id=4)||
-|17435|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=17435&user_id=kkywalk2&result_id=4)|scanner로는 안됨..|
+|17435|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=17435&user_id=kkywalk2&result_id=4)|scanner를 사용하면 시간초과 발생|
 |2150|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2150&user_id=kkywalk2&result_id=4)||
 |4196|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=4196&user_id=kkywalk2&result_id=4)||
 |11066|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=11066&user_id=kkywalk2&result_id=4)||
@@ -45,3 +45,4 @@
 |14888|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=14888&user_id=kkywalk2&result_id=4)||
 |2805|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2805&user_id=kkywalk2&result_id=4)||
 |1806|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1806&user_id=kkywalk2&result_id=4)||
+|13144|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=13144&user_id=kkywalk2&result_id=4)|Scanner를 사용하면 메모리초과 발생|
