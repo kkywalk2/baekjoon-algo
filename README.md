@@ -48,3 +48,4 @@
 |13144|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=13144&user_id=kkywalk2&result_id=4)|Scanner를 사용하면 메모리초과 발생|
 |2251|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2251&user_id=kkywalk2&result_id=4)||
 |2667|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2667&user_id=kkywalk2&result_id=4)||
+|14502|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=14502&user_id=kkywalk2&result_id=4)||
