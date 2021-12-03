@@ -53,3 +53,4 @@
 |3055|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=3055&user_id=kkywalk2&result_id=4)||
 |1068|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1068&user_id=kkywalk2&result_id=4)||
 |2252|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=2252&user_id=kkywalk2&result_id=4)||
+|1916|[링크](https://www.acmicpc.net/status?from_mine=1&problem_id=1916&user_id=kkywalk2&result_id=4)||
